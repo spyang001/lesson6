@@ -1,0 +1,35 @@
+body {
+	background:	#741a7b;
+
+text-align: center;
+	}
+
+
+.logo{
+	display: block;
+	height: 75px;
+	width: auto;
+	margin: 0 auto 30px;
+}
+
+.signup-form {
+	margin: 0 auto;
+	width: 400px;
+	padding: 400x;
+	border-radius: 3px;
+	background: #11cecb;
+}
+
+button[type='submit'] {
+
+	color: white;
+	background: #15CD72;
+	border: 0;
+	font-weight: 500;
+	font-size: 22px;
+	text-align: center;
+	cursor: pointer;
+	margin-bottom: 0;
+	height: auto;
+}
+
